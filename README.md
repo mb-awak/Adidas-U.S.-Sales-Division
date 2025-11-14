@@ -32,3 +32,9 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 • Operating Margin: A financial metric that indicates the profitability and efficiency of a retailer's operations.
 
 • Sales Method: The approach or channel used by the retailer to sell its products or services.
+
+# EXPLORATORY DATA ANALYSIS (EDA)
+- Data cleaning/Transformation
+- Power Pivot
+- Date table
+- Report
