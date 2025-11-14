@@ -44,3 +44,7 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 - Analyze profit margins and pricing trends. 
 - Discover seasonal or regional sales patterns. 
 - Provide business recommendations to improve sales and profitability.
+
+# Process Phase 
+<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/60183f3b-73d7-4766-9ea7-b6f0257e658c" />
+
