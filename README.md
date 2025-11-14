@@ -33,8 +33,16 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 
 • Sales Method: The approach or channel used by the retailer to sell its products or services.
 
-# EXPLORATORY DATA ANALYSIS (EDA)
+# Exploratory Data Analysis (EDA)
 - Data cleaning/Transformation
 - Power Pivot
 - Date table
 - Report
+
+# Project Objectives 
+● Explore overall sales performance across U.S. regions. 
+● Identify top-performing products and underperforming categories. 
+● Compare revenue and units sold by retailer and sales channel. 
+● Analyze profit margins and pricing trends. 
+● Discover seasonal or regional sales patterns. 
+● Provide business recommendations to improve sales and profitability.
