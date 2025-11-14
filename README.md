@@ -38,9 +38,9 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 - Report
 
 # Project Objectives 
-● Explore overall sales performance across U.S. regions. 
-● Identify top-performing products and underperforming categories. 
-● Compare revenue and units sold by retailer and sales channel. 
-● Analyze profit margins and pricing trends. 
-● Discover seasonal or regional sales patterns. 
-● Provide business recommendations to improve sales and profitability.
+- Explore overall sales performance across U.S. regions. 
+- Identify top-performing products and underperforming categories.
+- Compare revenue and units sold by retailer and sales channel.
+- Analyze profit margins and pricing trends. 
+- Discover seasonal or regional sales patterns. 
+- Provide business recommendations to improve sales and profitability.
