@@ -17,8 +17,6 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 
 • City: Refers to an urban area or municipality where the sales activity or retail operations are conducted.
 
-• Gender Type: Categorization of individuals based on their gender, such as male or female.
-
 • Product Category: Represents the classification or grouping of Adidas products.
 
 • Price per Unit: The cost or price associated with a single unit of a product.
