@@ -47,7 +47,9 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 
 # Process Phase 
 <img width="649" height="190" alt="image" src="https://github.com/user-attachments/assets/acd036c0-6461-420b-87cd-873b6c23ae95" />
+
 # Data Modeling 
 <img width="624" height="431" alt="image" src="https://github.com/user-attachments/assets/90f58152-0e0a-48c3-b651-0aa24491d7a0" />
+
 # Power Pivot
 
