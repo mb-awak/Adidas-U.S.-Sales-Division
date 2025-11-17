@@ -47,7 +47,13 @@ Your responsibility is to clean, analyze, and visualize the data using Microsoft
 - The in-store sales channel generated the highest revenue at $127.59M, suggesting that customers prefer purchasing products they can see and evaluate physically. In contrast, the outlet sales channel recorded the lowest revenue at $96.56M, indicating lower performance compared to other sales methods.
 - Men’s Street Footwear is the top-performing product category, generating $208.83M in total sales. This strong performance highlights its high customer demand and its significant contribution to Adidas’ overall sales.
 
-# Report 
+# Report
+<img width="659" height="421" alt="image" src="https://github.com/user-attachments/assets/73b5ebf0-b9b6-4bde-97b6-f8f45b8b5ca2" />
+<img width="629" height="422" alt="image" src="https://github.com/user-attachments/assets/7fb62e53-792b-4669-961f-fe14e4c7e2e0" />
+
+
+# VBA
+<img width="661" height="435" alt="image" src="https://github.com/user-attachments/assets/79d14511-e4fa-4bd2-93f9-97b59373dd76" />
 
 # Findings
 - In-store sales were the most effective sales channel, generating $127.59M in revenue. Online sales performed lower at $107.99M, indicating a need to strengthen the digital sales experience and enhance targeted online marketing efforts.
